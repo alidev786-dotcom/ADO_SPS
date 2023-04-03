@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD6DBF86-89C9-49DF-8FFB-2135167FF6BC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SPS.UI</RootNamespace>
+    <AssemblyName>SPS.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddProductPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProductPanel.Designer.cs">
+      <DependentUpon>AddProductPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUserPanel.Designer.cs">
+      <DependentUpon>AddUserPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customersPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customersPanel.Designer.cs">
+      <DependentUpon>customersPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginForm.Designer.cs">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainAdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainAdminPanel.Designer.cs">
+      <DependentUpon>mainAdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainCustomerPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainCustomerPanel.Designer.cs">
+      <DependentUpon>MainCustomerPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductsPanel.Designer.cs">
+      <DependentUpon>ProductsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="registrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrationForm.Designer.cs">
+      <DependentUpon>registrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProductsByCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProductsByCustomer.Designer.cs">
+      <DependentUpon>ViewProductsByCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProfile.Designer.cs">
+      <DependentUpon>ViewProfile.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddProductPanel.resx">
+      <DependentUpon>AddProductPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUserPanel.resx">
+      <DependentUpon>AddUserPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customersPanel.resx">
+      <DependentUpon>customersPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginForm.resx">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainAdminPanel.resx">
+      <DependentUpon>mainAdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainCustomerPanel.resx">
+      <DependentUpon>MainCustomerPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductsPanel.resx">
+      <DependentUpon>ProductsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="registrationForm.resx">
+      <DependentUpon>registrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProductsByCustomer.resx">
+      <DependentUpon>ViewProductsByCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProfile.resx">
+      <DependentUpon>ViewProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SPS.BLL\SPS.BLL.csproj">
+      <Project>{d289256d-5a48-4733-b6cf-cf3831db9dab}</Project>
+      <Name>SPS.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SPS.Common\SPS.Common.csproj">
+      <Project>{5abe52bb-0b81-40ae-97b2-8654da48af02}</Project>
+      <Name>SPS.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.Common\bin\Debug\SPS.Common.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.Common\bin\Debug\SPS.Common.pdb
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.Common\obj\Debug\SPS.Common.csproj.AssemblyReference.cache
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.Common\obj\Debug\SPS.Common.csproj.CoreCompileInputs.cache
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.Common\obj\Debug\SPS.Common.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.Common\obj\Debug\SPS.Common.pdb

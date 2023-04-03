@@ -1,0 +1,9 @@
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\bin\Debug\SPS.DAL.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\bin\Debug\SPS.DAL.pdb
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\bin\Debug\SPS.Common.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\bin\Debug\SPS.Common.pdb
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\obj\Debug\SPS.DAL.csproj.AssemblyReference.cache
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\obj\Debug\SPS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\obj\Debug\SPS.DAL.csproj.CopyComplete
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\obj\Debug\SPS.DAL.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.DAL\obj\Debug\SPS.DAL.pdb

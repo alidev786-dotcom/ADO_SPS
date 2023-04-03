@@ -1,0 +1,11 @@
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\bin\Debug\SPS.BLL.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\bin\Debug\SPS.BLL.pdb
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\bin\Debug\SPS.Common.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\bin\Debug\SPS.DAL.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\bin\Debug\SPS.Common.pdb
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\bin\Debug\SPS.DAL.pdb
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\obj\Debug\SPS.BLL.csproj.AssemblyReference.cache
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\obj\Debug\SPS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\obj\Debug\SPS.BLL.csproj.CopyComplete
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\obj\Debug\SPS.BLL.dll
+C:\Users\madina\OneDrive\Desktop\SPS\SPS.BLL\obj\Debug\SPS.BLL.pdb

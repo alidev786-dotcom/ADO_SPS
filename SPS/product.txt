@@ -1,0 +1,4 @@
+1,bat,sports,1200,500
+2,shirt,garments,1500,1000
+3,trouser,garments,1000,5000
+4,TV,Electronics,5000,500

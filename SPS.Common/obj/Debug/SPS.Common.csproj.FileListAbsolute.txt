@@ -1,0 +1,6 @@
+D:\MY_FINAL_SPS_11\SPS.Common\bin\Debug\SPS.Common.dll
+D:\MY_FINAL_SPS_11\SPS.Common\bin\Debug\SPS.Common.pdb
+D:\MY_FINAL_SPS_11\SPS.Common\obj\Debug\SPS.Common.csproj.AssemblyReference.cache
+D:\MY_FINAL_SPS_11\SPS.Common\obj\Debug\SPS.Common.csproj.CoreCompileInputs.cache
+D:\MY_FINAL_SPS_11\SPS.Common\obj\Debug\SPS.Common.dll
+D:\MY_FINAL_SPS_11\SPS.Common\obj\Debug\SPS.Common.pdb

@@ -1,0 +1,11 @@
+D:\MY_FINAL_SPS_11\SPS.BLL\bin\Debug\SPS.BLL.dll
+D:\MY_FINAL_SPS_11\SPS.BLL\bin\Debug\SPS.BLL.pdb
+D:\MY_FINAL_SPS_11\SPS.BLL\bin\Debug\SPS.Common.dll
+D:\MY_FINAL_SPS_11\SPS.BLL\bin\Debug\SPS.DAL.dll
+D:\MY_FINAL_SPS_11\SPS.BLL\bin\Debug\SPS.Common.pdb
+D:\MY_FINAL_SPS_11\SPS.BLL\bin\Debug\SPS.DAL.pdb
+D:\MY_FINAL_SPS_11\SPS.BLL\obj\Debug\SPS.BLL.csproj.AssemblyReference.cache
+D:\MY_FINAL_SPS_11\SPS.BLL\obj\Debug\SPS.BLL.csproj.CoreCompileInputs.cache
+D:\MY_FINAL_SPS_11\SPS.BLL\obj\Debug\SPS.BLL.csproj.CopyComplete
+D:\MY_FINAL_SPS_11\SPS.BLL\obj\Debug\SPS.BLL.dll
+D:\MY_FINAL_SPS_11\SPS.BLL\obj\Debug\SPS.BLL.pdb
